@@ -78,8 +78,8 @@ input[type="text"] {
     width: 100%;
     float: left;
     background-color: #111;
-    padding: 18px 8%;
-
+    /* padding: 18px 8%; */
+    padding: 18px 8% 10px 8%;
 }
 
 .menu li {
@@ -96,3 +96,15 @@ input[type="text"] {
    
 }
 
+.social-icons {
+    float: right;
+}
+
+.social-icons a {
+    color: white;
+    float: left;
+    margin-left: 12px;
+}
+.social-icons a:hover {
+   color: #0cae98;
+}
