@@ -59,6 +59,7 @@ input[type="text"] {
     width: 85%;
     float: left;
     padding: 15px 10px;
+    border-radius: 4px 0 0 4px ;
 
 }
 
@@ -107,4 +108,11 @@ input[type="text"] {
 }
 .social-icons a:hover {
    color: #0cae98;
+}
+
+/* primcipal */
+
+main.principal {
+    
+
 }
